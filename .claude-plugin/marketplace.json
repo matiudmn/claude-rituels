@@ -1,0 +1,25 @@
+{
+  "name": "claude-rituels",
+  "owner": {
+    "name": "Matthieu Daumain",
+    "url": "https://matthieudaumain.fr"
+  },
+  "metadata": {
+    "description": "Rituels de session pour Claude Code, en français.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "rituels",
+      "source": "./",
+      "description": "Ouverture de session, clôture de session et mode bras droit, avec un agent exécutant et un agent vérificateur.",
+      "version": "1.0.0",
+      "author": { "name": "Matthieu Daumain" },
+      "homepage": "https://github.com/MatiuDmn/claude-rituels",
+      "repository": "https://github.com/MatiuDmn/claude-rituels",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["rituels", "session", "workflow", "qualite", "francais"]
+    }
+  ]
+}
