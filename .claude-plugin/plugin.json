@@ -1,0 +1,13 @@
+{
+  "name": "rituels",
+  "version": "1.0.0",
+  "description": "Trois rituels pour Claude Code, en français : ouverture de session, clôture de session et mode bras droit, avec deux agents (exécutant et vérificateur).",
+  "author": {
+    "name": "Matthieu Daumain",
+    "url": "https://matthieudaumain.fr"
+  },
+  "homepage": "https://github.com/MatiuDmn/claude-rituels",
+  "repository": "https://github.com/MatiuDmn/claude-rituels",
+  "license": "MIT",
+  "keywords": ["rituels", "session", "workflow", "git", "worktree", "qualite", "agents", "francais"]
+}
